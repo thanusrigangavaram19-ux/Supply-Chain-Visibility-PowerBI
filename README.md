@@ -41,7 +41,7 @@ The complete project documentation for Milestones 1–4 is available in the PDF 
 
 ## 7. Dashboard Screenshots
 
-Dashboard screenshots will be added to the `screenshots/` folder when available.
+Dashboard screenshots will be added to the `screenshots/` folder.
 
 ## 8. Current Project Files
 
