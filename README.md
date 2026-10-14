@@ -1,56 +1,58 @@
 # Supply Chain Visibility System with Optimization Analytics
 
-**Project Documentation by Thanusri Gangavaram**
+**A Power BI Project by Thanusri Gangavaram**
 
-## 1. Project Overview
+## 📌 Project Overview
 
-The Supply Chain Visibility System with Optimization Analytics is a Power BI project designed to analyze supply chain operations and present insights through dashboards and performance indicators.
+The Supply Chain Visibility System with Optimization Analytics project focuses on analyzing supply chain operations using Microsoft Power BI. It presents insights into inventory management, delivery performance, transportation, supplier performance, and warehouse efficiency through interactive dashboards and visual analytics.
 
-## 2. Objectives
+## 🎯 Project Objectives
 
-- Analyze inventory and order visibility.
-- Evaluate delivery performance and delays.
-- Examine transportation costs and shipping operations.
-- Analyze supplier performance and disruption risks.
-- Study warehouse utilization and operational efficiency.
-- Support data-driven decision-making.
+- Analyze inventory levels and inventory turnover.
+- Monitor delivery performance and delays.
+- Evaluate transportation and supplier performance.
+- Analyze warehouse efficiency and operational costs.
+- Support data-driven decision-making through dashboards.
 
-## 3. Tools and Technologies
+## 🛠️ Tools and Technologies
 
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
+- **Microsoft Power BI** — Dashboard creation and data visualization
+- **Power Query** — Data transformation and preparation
+- **DAX** — Measures and analytical calculations
 
-## 4. Project Milestones
+## 📊 Project Milestones
 
-- **Milestone 1:** Supply Chain Visibility and Inventory Turnover
-- **Milestone 2:** Inventory and Delivery Performance Analytics
-- **Milestone 3:** Transportation and Supplier Performance Analytics
-- **Milestone 4:** Warehouse Analytics and Performance Optimization
+### Milestone 1: Inventory Analysis
+Analyzes inventory turnover, order values, units ordered, shipping modes, and product categories.
 
-## 5. Repository Structure
+### Milestone 2: Inventory and Delivery Performance
+Focuses on delivery performance, delay trends, inventory velocity, and operational performance.
 
-- `documents/` — Project reports and documentation
-- `screenshots/` — Dashboard screenshots
-- `README.md` — Project overview
-- `LICENSE` — Project usage terms
+### Milestone 3: Transportation and Supplier Analytics
+Examines transportation costs, shipment costs, order fulfillment, transit delays, supplier performance, and disruption risks.
 
-## 6. Project Documentation
+### Milestone 4: Warehouse Optimization and Executive Analytics
+Presents warehouse orders, units handled, operating costs, warehouse utilization, on-time delivery, picking accuracy, and performance comparisons.
 
-The complete project documentation for Milestones 1–4 is available in the PDF uploaded to this repository.
+## 📁 Repository Structure
 
-## 7. Dashboard Screenshots
+```text
+Supply-Chain-Visibility-PowerBI/
+├── README.md
+├── LICENSE
+├── documents/
+│   ├── README.md
+│   └── Final_Milestone_1_to_4_.pdf
+└── screenshots/
+    ├── README.md
+    └── PowerBI_Dashboard_Screenshots.pdf
+```
 
-Dashboard screenshots will be added to the `screenshots/` folder.
 
-## 8. Current Project Files
-
-The repository currently contains the project documentation PDF. The Power BI `.pbix` report and separate dashboard screenshots have not yet been added.
-
-## 9. Author
+## 👩‍💻 Author
 
 **Thanusri Gangavaram**
 
-## 10. Conclusion
+## 📝 Conclusion
 
-This project explores supply chain visibility and optimization analytics using Power BI, focusing on inventory, delivery, transportation, supplier performance, and warehouse operations.
+This project demonstrates the use of Power BI for supply chain data analysis and visualization. The dashboards bring together key operational indicators to help identify performance trends and areas for potential improvement in inventory, transportation, delivery, and warehouse operations.
